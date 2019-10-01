@@ -1,0 +1,60 @@
+s=input()
+re=""
+for i in s:
+    if(i=="a"):
+        re=re+"1"
+    elif(i=="b"):
+        re=re+"2"
+    elif(i=="c"):
+        re=re+"3"
+    elif(i=="d"):
+        re=re+"4"
+    elif(i=="e"):
+        re=re+"5"
+    elif(i=="f"):
+        re=re+"6"
+    elif(i=="g"):
+        re=re+"7"
+    elif(i=="h"):
+        re=re+"8"
+    elif(i=="i"):
+        re=re+"9"
+    elif(i=="j"):
+        re=re+"10"
+    elif(i=="k"):
+        re=re+"11"
+    elif(i=="l"):
+        re=re+"12"
+    elif(i=="m"):
+        re=re+"13"
+    elif(i=="n"):
+        re=re+"14"
+    elif(i=="o"):
+        re=re+"15"
+    elif(i=="p"):
+        re=re+"16"
+    elif(i=="q"):
+        re=re+"17"
+    elif(i=="r"):
+        re=re+"18"
+    elif(i=="s"):
+        re=re+"19"
+    elif(i=="t"):
+        re=re+"20"
+    elif(i=="u"):
+        re=re+"21"
+    elif(i=="v"):
+        re=re+"22"
+    elif(i=="w"):
+        re=re+"23"
+    elif(i=="x"):
+        re=re+"24"
+    elif(i=="y"):
+        re=re+"25"
+    elif(i=="z"):
+        re=re+"26"
+re=int(re)
+if(re%6==0):
+    print("YES")
+else:
+    print("NO")
