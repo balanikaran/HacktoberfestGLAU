@@ -1,0 +1,17 @@
+t=int(input())
+for _ in range(t):
+    n=int(input())
+    bo=list(map(int,input().split()))
+    al=list(map(int,input().split()))
+    cbo,cal=0,0
+    for i in range(0,n):
+        if bo[i]>al[i]:
+            cbo=cbo+1
+        elif bo[i]<al[i]:
+            cal=cal+1
+    if(cbo==cal):
+        print("Tie")
+    elif(cbo>cal):
+        print("Bob")
+    elif(cbo<cal):
+        print("Alice")
