@@ -1,6 +1,9 @@
 # HacktoberfestGLAU
 A helper repository for GLAU Students to take part in hacktoberfest
 
+## Note:
+If any category or langauge is not found, please feel free to create one
+
 ## How To:
 
 1. Fork Repo on Web Page
