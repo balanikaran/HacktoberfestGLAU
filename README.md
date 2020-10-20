@@ -2,7 +2,7 @@
 A helper repository for GLAU Students to take part in hacktoberfest
 
 ## Note:
-If any category or langauge is not found, please feel free to create one
+If any category or language is not found, please feel free to create one
 
 ## How To:
 
@@ -19,3 +19,10 @@ If any category or langauge is not found, please feel free to create one
 1. Fork Repo on Web Page
 2. Make your changes on your forked repo
 3. Make Pull Request to master
+
+### Also:
+
+1. Fork Repo on GitHub Web
+2. Create a new branch, so that master branch is unaffected
+3. Make your changes on the branch created in the forked repo
+4. Make Pull Request to that branch
