@@ -14,13 +14,13 @@ If any category or language is not found, please feel free to create one
 6. push your changes `git push`
 7. Create a Pull Request to master on Web Page
 
-### Alternate via Web
+### Alternate via Web:
 
 1. Fork Repo on Web Page
 2. Make your changes on your forked repo
 3. Make Pull Request to master
 
-### Also:
+### Or:
 
 1. Fork Repo on GitHub Web
 2. Create a new branch, so that master branch is unaffected
